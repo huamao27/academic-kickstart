@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor in Finance (04/2020)
+role: Associate Professor in Finance
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Nottingham
+- name: The University of Nottingham (04/2020)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
