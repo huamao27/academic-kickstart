@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Dr Huamao Wang
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor in Finance (04/2020)
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: The University of Nottingham
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
