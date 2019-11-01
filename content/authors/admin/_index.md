@@ -19,26 +19,20 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: Dr Huamao Wang has the strength of mastering multidisciplinary research skills
+
 interests:
 - Empirical and Theoretical Researches
 - Corporate Finance
 - Asset Pricing
-- Risk Analysis, Investment, Portfolio Choice
-- Financial Markets (stocks, bonds, options, volatilities etc)
-- Financial Intermediaries (banks, funds, venture capital etc)
-- Fintech (AI, Big Data, Blockchain, and Cryptocurrencies etc)
 
 education:
   courses:
   - course: PhD in Finance
     institution: Accounting and Finance Division, Leeds University Business School, University of Leeds
-    # year: 2011
   - course: MSc in Probability and Statistics 
     institution: Department of Mathematics and Econometrics, Hunan University, China
-    # year: 2007
   - course: BSc in Information and Computational Science
     institution: Department of Mathematics and Econometrics, Hunan University, China
-    # year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
