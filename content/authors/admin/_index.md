@@ -18,8 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr Huamao Wang has the strength of mastering multidisciplinary research skills in finance, econometrics, statistics, machine learning, big data, modelling, numerical computation, and programming.
-
+bio: Dr Huamao Wang has the strength of mastering multidisciplinary research skills
 interests:
 - Empirical and Theoretical Researches
 - Corporate Finance
